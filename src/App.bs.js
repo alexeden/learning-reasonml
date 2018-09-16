@@ -2,6 +2,8 @@
 'use strict';
 
 
-console.log("Hello, BuckleScript");
+console.log("Hello, Reason!");
+
+(( console.log('hi!') ));
 
 /*  Not a pure module */
