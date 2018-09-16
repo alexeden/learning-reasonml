@@ -1,0 +1,21 @@
+{
+  "name": "learning-reasonml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bs-platform": "^4.0.5"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeden/learning-reasonml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeden/learning-reasonml/issues"
+  },
+  "homepage": "https://github.com/alexeden/learning-reasonml#readme"
+}
